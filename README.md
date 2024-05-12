@@ -1,4 +1,4 @@
-# Data Science as a Field Final Report Kroger Stores Data Analysis
+# Data Science as a Field Final Report : Kroger Stores Data Analysis
 
 Description of the Statement of Interest:
 
