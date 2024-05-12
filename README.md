@@ -1,6 +1,7 @@
-# Kroger-Stores-Data-Analysis
-Data Science as a field- Final report based Kroger Store's Data Analysis
+# Data Science as a Field Final Report Kroger Stores Data Analysis
+
 Description of the Statement of Interest:
+
 Using Kroger Store's Data from API and collected data from 2500 Households,
 
 How can we identify the campaigns that are reaching the most households and generating the highest sales?
